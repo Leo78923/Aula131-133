@@ -1,25 +1,24 @@
 body
 {
-    background-position: center;
-    background-size: cover;  
+background-position: center;
+background-size: cover;
 }
 
 .heading
-{   
-    font-size: 23px;
-    width: 100%;
-    margin: 0px;
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
 }
 
-#status
+#status, #numberOfObjects, #startModel
 {
-    font-size: 18px;
+font-size: 18px;
 }
 
 canvas
 {
-    box-shadow: 10px 10px 10px rgb(173, 0, 0);
-    border-radius: 10px;
+box-shadow: 10px 10px 10px grey;
+border-radius: 10px;
+margin-top: 30px;
 }
-
-
